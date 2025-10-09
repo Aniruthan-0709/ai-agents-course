@@ -5,3 +5,6 @@
 .claude
 venv
 .env.template
+chatbot/.chainlit/
+chatbot/.files/
+chatbot/_pycache_
