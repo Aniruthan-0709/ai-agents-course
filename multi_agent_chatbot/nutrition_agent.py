@@ -216,4 +216,4 @@ breakfast_advisor_guarded = Agent(
 )
 
 # Main nutrition agent (keeping original for backwards compatibility, but now with guardrails)
-nutrition_agent = calorie_agent_with_search_guarded
+nutrition_agent = breakfast_advisor_guarded
